@@ -1,0 +1,9 @@
+---
+layout: post
+img: img/portfolio/MegaActionShooter.png
+date: 2018-02-18 22:40:34
+modalID: modalMegaActionShooter
+category: Design
+---
+A top down 2D shooter prototype developed in Unity. The player is faced with multiple enemy types with the ability to use a range of different weapons. All programming done by me and art from <a href="http://www.opengameart.org">opengameart.org</a>.
+~                                                                         
