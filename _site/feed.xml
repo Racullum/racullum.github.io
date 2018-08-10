@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Aug 2018 19:58:37 -0700</pubDate>
-    <lastBuildDate>Thu, 09 Aug 2018 19:58:37 -0700</lastBuildDate>
+    <pubDate>Thu, 09 Aug 2018 20:38:13 -0700</pubDate>
+    <lastBuildDate>Thu, 09 Aug 2018 20:38:13 -0700</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -28,7 +28,9 @@
     
       <item>
         <title>Mega Action Shooter</title>
-        <description>&lt;p&gt;A top-down 2D shooter prototype developed in Unity. The player is faced with multiple enemy types with the ability to use a range of different weapons. Every weapon fires a unique projectile, but the main logic is all inherited from one base class. There are three enemy types each with their own unique health level. AI is configured via a third party plugin called A* Pathfinding Project. All programming is done in C# and art is from &lt;a href=&quot;http://www.opengameart.org&quot;&gt;opengameart.org&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;A top-down 2D shooter prototype developed in Unity. The player is faced with multiple enemy types with the ability to use a range of different weapons. Every weapon fires a unique projectile, but the main logic is all inherited from one base class. There are three enemy types each with their own unique health level. AI is configured via a third party plugin called A* Pathfinding Project. The prototype contains three differently designed levels. All programming is done in C# and art is from &lt;a href=&quot;http://www.opengameart.org&quot;&gt;opengameart.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mnQLrtIKfyc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
 </description>
         <pubDate>Sun, 18 Feb 2018 14:40:34 -0800</pubDate>

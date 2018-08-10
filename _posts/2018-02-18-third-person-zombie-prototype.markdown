@@ -8,5 +8,5 @@ category: Design
 A round based shooter prototype designed with Unreal and Blueprints for the objective of learning the Unreal engine. The prototype has an inventory system, random enemy spawns, and AI implemented with a simple Nav Mesh Bounds Volume. 
 
 
-{% include youtubePlayer.html %}
+{% include youtubePlayerThirdPersonShooter.html %}
 
