@@ -382,7 +382,7 @@ header.masthead p {
   text-align: left;
   text-transform: uppercase;
   border: solid;
-  
+  display: inline-block;
   font-family: 'Muli', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
