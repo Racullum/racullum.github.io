@@ -386,6 +386,25 @@ header.masthead p {
   font-family: 'Muli', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
+@media (min-width: 200px) {
+  .btn {
+    font-size: .5rem;
+  }
+}
+
+@media (min-width: 900px) {
+  .btn {
+    font-size: .7rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .btn {
+    font-size: 1.15rem;
+  }
+}
+
+
 .btn-xl {
   padding: 1rem 2rem;
 }
