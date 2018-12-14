@@ -234,6 +234,18 @@ header.masthead p {
   }
 }
 
+@media (min-width: 400px) {
+  header.masthead {
+    height: 100vh;
+    min-height: 650px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  header.masthead h1 {
+    font-size: 1rem;
+  }
+}
+
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
@@ -321,10 +333,6 @@ header.masthead p {
 
 .text-primary {
   color: white !important;
-}
-
-.typewriter {
-  font-size: 55px;
 }
 
 @keyframes typewriter{
